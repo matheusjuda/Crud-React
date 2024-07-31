@@ -1,0 +1,92 @@
+{
+  "apiTable": [
+    {
+      "id": 1,
+      "equipament": "Betoneira",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 2,
+      "equipament": "Acessório de elevação cabo de aço",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 3,
+      "equipament": "Andaime fachadeiro",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 4,
+      "equipament": "Andaime Suspenso",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 5,
+      "equipament": "Bate estacas",
+      "status": {
+        "estado": "inativo",
+        "bgClass": "style={{ backgroundColor: 'gray' }}"
+      }
+    },
+    {
+      "id": 6,
+      "equipament": "Bomba lança concreto",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 7,
+      "equipament": "Caminhão basculante ",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 8,
+      "equipament": "Cavalete metálico",
+      "status": {
+        "estado": "inativo",
+        "bgClass": "style={{ backgroundColor: 'gray' }}"
+      }
+    },
+    {
+      "id": 9,
+      "equipament": "Empilhadeira",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 10,
+      "equipament": "Furadeira",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    },
+    {
+      "id": 11,
+      "equipament": "Maçarico",
+      "status": {
+        "estado": "ativo",
+        "bgClass": "bg-success"
+      }
+    }
+  ]
+}
